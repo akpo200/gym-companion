@@ -1,0 +1,12 @@
+# Fichiers système et éditeurs
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
